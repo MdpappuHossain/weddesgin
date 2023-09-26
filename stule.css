@@ -1,0 +1,107 @@
+
+.center{
+text-align: center;
+color: rgb(42, 165, 89);
+
+}
+
+
+
+
+nav ul{
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+
+}
+
+nav ul li{
+list-style: none;
+margin: 3px;
+padding: 8px;
+background: yellow;
+}
+
+.flex{
+ display: flex; 
+}
+
+.margin{
+margin: 20px;
+padding: 30px;
+
+}
+
+.broder{
+border: 5px solid red;
+
+}
+
+
+.hight{
+height: 350px;
+
+}
+
+.width{
+width: 300px;
+
+}
+
+
+.padding{
+margin: 20px;
+
+
+}
+
+
+.gol{
+    border: 5px solid yellow;
+border-radius: 50%;
+width: 100px;
+
+}
+
+.backround{
+background: rgb(39, 48, 22);
+
+}
+
+
+.paka{
+margin: 300px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
